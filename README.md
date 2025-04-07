@@ -59,4 +59,4 @@ This project uses GitHub Actions for continuous integration and deployment:
 - Automated tests (to be added)
 
 ## Demo
-[!demo](Demo.png)
+![demo](Demo.png)
